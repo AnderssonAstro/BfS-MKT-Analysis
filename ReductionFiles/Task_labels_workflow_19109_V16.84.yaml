@@ -1,0 +1,8 @@
+T0.answers.0.label: Stable
+T0.answers.1.label: Extended Blob
+T0.answers.2.label: Artefact
+T0.answers.3.label: Transient/Variable
+T0.answers.4.label: Unsure
+T0.question: '**What kind of source is this?**
+
+    Please identify what kind of object you''re looking at from the options below.'
