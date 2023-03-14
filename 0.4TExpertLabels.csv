@@ -37,17 +37,17 @@
 76,MAXIJ1803,1,0,
 76,MAXIJ1820,1,0,marginal
 81,EXO1846,0,0,
-82,EXO1846,1,0,too good to be true
-87,EXO1846,1,0,too good to be true
+82,EXO1846,1,0,too good to be true?
+87,EXO1846,1,0,too good to be true?
 88,SAXJ1808,0,1,
 89,EXO1846,1,0,EXO itself
 94,MAXIJ1820,0,0,
 94,J1848G,1,0,Jet
 97,SAXJ1808,0,0,
-100,MAXIJ1348,1,0,too good to be true
+100,MAXIJ1348,1,0,too good to be true?
 108,J1848G,1,0,
 112,4U1543,1,0,
-113,J1848G,1,0,too good to be true
+113,J1848G,1,0,too good to be true?
 121,SAXJ1808,1,0,
 121,J1848G,0,1,cool
 126,SAXJ1808,0,1,
@@ -78,7 +78,7 @@
 183,MAXIJ1348,1,0,MAXIJ1348 itself
 191,MAXIJ1820,1,0,Need to zoom
 193,MAXIJ1820,1,0,
-194,MAXIJ1803,1,0,too good to be true
+194,MAXIJ1803,1,0,too good to be true?
 194,MAXIJ1820,1,0,
 205,SAXJ1808,0,0,
 211,MAXIJ1820,1,0,
@@ -132,7 +132,7 @@
 349,MAXIJ1820,1,0,
 356,MAXIJ1820,1,0,wow!
 358,4U1543,0,0,
-360,EXO1846,1,0,3 datapoints?
+360,EXO1846,0,0,3 datapoints caused by PSF change including a nearby source
 365,MAXIJ1803,1,0,
 365,SAXJ1808,0,0,cal
 370,SAXJ1808,0,0,
@@ -142,14 +142,14 @@
 382,MAXIJ1820,1,0,
 388,MAXIJ1820,1,0,
 391,SAXJ1808,0,1,
-396,4U1543,1,0,too good to be true
+396,4U1543,1,0,too good to be true?
 397,MAXIJ1820,1,0,
 399,MAXIJ1820,1,0,
 400,4U1543,0,0,
 401,MAXIJ1803,0,0,
 404,SAXJ1808,0,0,cal
 405,MAXIJ1820,1,0,
-408,MAXIJ1803,1,0,extended?
+408,MAXIJ1803,0,0,extended?
 408,MAXIJ1820,1,0,
 409,MAXIJ1820,1,0,
 413,MAXIJ1348,0,0,
@@ -281,12 +281,12 @@
 1926,H1743,0,0,cal
 1927,H1743,0,1,cal
 1929,H1743,0,0,cal
-1931,J1858,0,0,too good to be true
+1931,J1858,0,0,too good to be true?
 1932,H1743,1,0,H1743 itself
 1935,J1858,0,0,cal
 1937,J1858,1,0,
 1953,J1858,0,0,
-1954,J1858,0,0,too good to be true
+1954,J1858,0,0,too good to be true??
 1965,H1743,0,1,
 1973,H1743,0,0,cal
 1975,H1743,1,0,marginal
