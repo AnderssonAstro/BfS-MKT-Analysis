@@ -1,5 +1,9 @@
 # BfS:MKT Analysis
- Analysis of citizen science data from BfS:MKT, as found in Andersson et al, submitted to MNRAS.
+ Analysis of citizen science data from BfS:MKT, as found in [Andersson et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.2219A/abstract), freely accessible in pre-print and from MNRAS.
+
+If you use any of this data or code, please cite the paper and/or the following DOI:
+
+[![DOI](https://zenodo.org/badge/529282129.svg)](https://zenodo.org/doi/10.5281/zenodo.10462687)
 
 
 In this notebook you will find the main aggregation Jupyter notebook, which reduces some of the classification data and produces our main figures. Note that some information in the paper comes from other repos, namely [RISS19](https://github.com/PaulHancock/RISS19) and [Radio-Optical](https://github.com/4pisky/radio-optical-transients-plot) for Figures 5 and 7 respectively, and [MKT Source Matching](https://github.com/AstroLaura/MeerKAT_Source_Matching) for some counterpart searching.
